@@ -1,0 +1,181 @@
+root@phil-N501VW:/home/phil/uts/uts# dpkg -l | grep qt
+ii  libqt5charts5:amd64                        5.12.8-0ubuntu1                       amd64        Qt charts shared library
+ii  libqt5charts5-dev:amd64                    5.12.8-0ubuntu1                       amd64        Qt charts development files
+ii  libqt5concurrent5:amd64                    5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 concurrent module
+ii  libqt5core5a:amd64                         5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 core module
+ii  libqt5dbus5:amd64                          5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 D-Bus module
+ii  libqt5designer5:amd64                      5.12.8-0ubuntu1                       amd64        Qt 5 designer module
+ii  libqt5designercomponents5:amd64            5.12.8-0ubuntu1                       amd64        Qt 5 Designer components module
+ii  libqt5gui5:amd64                           5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 GUI module
+ii  libqt5help5:amd64                          5.12.8-0ubuntu1                       amd64        Qt 5 help module
+ii  libqt5network5:amd64                       5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 network module
+ii  libqt5opengl5:amd64                        5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 OpenGL module
+ii  libqt5opengl5-dev:amd64                    5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 OpenGL library development files
+ii  libqt5positioning5:amd64                   5.12.8+dfsg-0ubuntu1                  amd64        Qt Positioning module
+ii  libqt5positioning5-plugins:amd64           5.12.8+dfsg-0ubuntu1                  amd64        Qt Positioning module - position plugins
+ii  libqt5positioningquick5:amd64              5.12.8+dfsg-0ubuntu1                  amd64        Qt Positioning module - Qt Quick module
+ii  libqt5printsupport5:amd64                  5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 print support module
+ii  libqt5qml5:amd64                           5.12.8-0ubuntu1                       amd64        Qt 5 QML module
+ii  libqt5quick5:amd64                         5.12.8-0ubuntu1                       amd64        Qt 5 Quick library
+ii  libqt5quickcontrols2-5:amd64               5.12.8+dfsg-0ubuntu1                  amd64        Qt 5 Quick Controls 2 library
+ii  libqt5quickparticles5:amd64                5.12.8-0ubuntu1                       amd64        Qt 5 Quick particles module
+ii  libqt5quickshapes5:amd64                   5.12.8-0ubuntu1                       amd64        Qt 5 Quick Shapes module
+ii  libqt5quicktemplates2-5:amd64              5.12.8+dfsg-0ubuntu1                  amd64        Qt 5 Quick Templates 2 library
+ii  libqt5quicktest5:amd64                     5.12.8-0ubuntu1                       amd64        Qt 5 Quick Test library
+ii  libqt5quickwidgets5:amd64                  5.12.8-0ubuntu1                       amd64        Qt 5 Quick Widgets library
+ii  libqt5script5:amd64                        5.12.8+dfsg-0ubuntu1                  amd64        Qt 5 script module
+ii  libqt5sensors5:amd64                       5.12.8-0ubuntu1                       amd64        Qt Sensors module
+ii  libqt5serialport5:amd64                    5.12.8-0ubuntu1                       amd64        Qt 5 serial port support
+ii  libqt5sql5:amd64                           5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 SQL module
+ii  libqt5sql5-sqlite:amd64                    5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 SQLite 3 database driver
+ii  libqt5svg5:amd64                           5.12.8-0ubuntu1                       amd64        Qt 5 SVG module
+ii  libqt5svg5-dev:amd64                       5.12.8-0ubuntu1                       amd64        Qt 5 SVG module development files
+ii  libqt5test5:amd64                          5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 test module
+ii  libqt5webchannel5:amd64                    5.12.8-0ubuntu1                       amd64        Web communication library for Qt
+ii  libqt5webchannel5-dev:amd64                5.12.8-0ubuntu1                       amd64        Web communication library for Qt - development files
+ii  libqt5webengine-data                       5.12.8+dfsg-0ubuntu1.1                all          Web content engine library for Qt - Data
+ii  libqt5webengine5:amd64                     5.12.8+dfsg-0ubuntu1.1                amd64        Web content engine library for Qt
+ii  libqt5webenginecore5:amd64                 5.12.8+dfsg-0ubuntu1.1                amd64        Web content engine library for Qt - Core
+ii  libqt5webenginewidgets5:amd64              5.12.8+dfsg-0ubuntu1.1                amd64        Web content engine library for Qt - Widget
+ii  libqt5webkit5:amd64                        5.212.0~alpha4-1ubuntu2.1             amd64        Web content engine library for Qt
+ii  libqt5widgets5:amd64                       5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 widgets module
+ii  libqt5xml5:amd64                           5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 XML module
+ii  libqt5xmlpatterns5:amd64                   5.12.8-0ubuntu1                       amd64        Qt 5 XML patterns module
+ii  qdoc-qt5                                   5.12.8-0ubuntu1                       amd64        Qt 5 qdoc tool
+ii  qhelpgenerator-qt5                         5.12.8-0ubuntu1                       amd64        Qt 5 qhelpgenerator tool
+ii  qml-module-qtgraphicaleffects:amd64        5.12.8-0ubuntu1                       amd64        Qt 5 Graphical Effects module
+ii  qml-module-qtqml-models2:amd64             5.12.8-0ubuntu1                       amd64        Qt 5 Models2 QML module
+ii  qml-module-qtquick-controls:amd64          5.12.8-0ubuntu2                       amd64        Qt 5 Quick Controls QML module
+ii  qml-module-qtquick-controls2:amd64         5.12.8+dfsg-0ubuntu1                  amd64        Qt 5 Qt Quick Controls 2 QML module
+ii  qml-module-qtquick-layouts:amd64           5.12.8-0ubuntu1                       amd64        Qt 5 Quick Layouts QML module
+ii  qml-module-qtquick-templates2:amd64        5.12.8+dfsg-0ubuntu1                  amd64        Qt 5 Qt Quick Templates 2 QML module
+ii  qml-module-qtquick-window2:amd64           5.12.8-0ubuntu1                       amd64        Qt 5 window 2 QML module
+ii  qml-module-qtquick2:amd64                  5.12.8-0ubuntu1                       amd64        Qt 5 Qt Quick 2 QML module
+ii  qml-module-qtwebengine:amd64               5.12.8+dfsg-0ubuntu1.1                amd64        Qt WebEngine QML module
+ii  qml-module-qtwebkit:amd64                  5.212.0~alpha4-1ubuntu2.1             amd64        Qt WebKit QML module
+ii  qt3d5-doc                                  5.12.8+dfsg-0ubuntu1                  all          Qt 3D documentation
+ii  qt5-assistant                              5.12.8-0ubuntu1                       amd64        Qt 5 Assistant
+ii  qt5-default:amd64                          5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 development defaults package
+ii  qt5-doc                                    5.12.8-0ubuntu1                       all          Qt 5 API Documentation
+ii  qt5-gtk-platformtheme:amd64                5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 GTK+ 3 platform theme
+ii  qt5-qmake:amd64                            5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 qmake Makefile generator tool
+ii  qt5-qmake-bin                              5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 qmake Makefile generator tool — binary file
+ii  qt5-qmltooling-plugins:amd64               5.12.8-0ubuntu1                       amd64        Qt 5 qmltooling plugins
+ii  qtattributionsscanner-qt5                  5.12.8-0ubuntu1                       amd64        Qt 5 qtattributionsscanner tool
+ii  qtbase5-dev:amd64                          5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 base development files
+ii  qtbase5-dev-tools                          5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 base development programs
+ii  qtbase5-doc                                5.12.8+dfsg-0ubuntu2.1                all          Qt 5 base documentation
+ii  qtcharts5-doc                              5.12.8-0ubuntu1                       all          Qt charts QCH documentation
+ii  qtchooser                                  66-2build1                            amd64        Wrapper to select between Qt development binary versions
+ii  qtconnectivity5-doc                        5.12.8-0ubuntu1                       all          Qt 5 Connectivity documentation
+ii  qtcreator                                  4.11.0-2build2                        amd64        integrated development environment (IDE) for Qt
+ii  qtcreator-data                             4.11.0-2build2                        all          application data for Qt Creator IDE
+ii  qtcreator-doc                              4.11.0-2build2                        all          documentation for Qt Creator IDE
+ii  qtdatavisualization5-doc                   5.12.8-0ubuntu1                       all          Qt 5 Data Visualization documentation
+ii  qtdeclarative5-dev:amd64                   5.12.8-0ubuntu1                       amd64        Qt 5 declarative development files
+ii  qtdeclarative5-dev-tools                   5.12.8-0ubuntu1                       amd64        Qt 5 declarative development programs
+ii  qtdeclarative5-doc                         5.12.8-0ubuntu1                       all          Qt 5 declarative documentation
+ii  qtgraphicaleffects5-doc                    5.12.8-0ubuntu1                       all          Qt 5 graphical effects documentation
+ii  qtlocation5-doc                            5.12.8+dfsg-0ubuntu1                  all          Qt 5 Location and Positioning QCH documentation
+ii  qtmultimedia5-doc                          5.12.8-0ubuntu1                       all          Qt 5 multimedia documentation
+ii  qtnetworkauth5-doc                         5.12.8-0ubuntu1                       all          online account access for Qt apps - documentation
+ii  qtpositioning5-dev:amd64                   5.12.8+dfsg-0ubuntu1                  amd64        Qt 5 Positioning development files
+ii  qtquickcontrols2-5-dev:amd64               5.12.8+dfsg-0ubuntu1                  amd64        Qt 5 Quick Controls 2 development files
+ii  qtquickcontrols2-5-doc                     5.12.8+dfsg-0ubuntu1                  all          Qt 5 Quick Controls 2 documentation
+ii  qtquickcontrols5-doc                       5.12.8-0ubuntu2                       all          Qt 5 Quick Controls documentation
+ii  qtscript5-doc                              5.12.8+dfsg-0ubuntu1                  all          Qt 5 script documentation
+ii  qtscxml5-doc                               5.12.8-0ubuntu1                       all          Qt SCXML QCH documentation
+ii  qtsensors5-doc                             5.12.8-0ubuntu1                       all          Qt 5 Sensors documentation
+ii  qtserialbus5-doc                           5.12.8-0ubuntu1                       all          Qt serialbus serial bus access QCH documentation
+ii  qtserialport5-doc                          5.12.8-0ubuntu1                       all          Qt 5 serial port documentation
+ii  qtsvg5-doc                                 5.12.8-0ubuntu1                       all          Qt 5 SVG documentation
+ii  qttools5-dev-tools                         5.12.8-0ubuntu1                       amd64        Qt 5 development tools
+ii  qttools5-doc                               5.12.8-0ubuntu1                       all          Qt 5 tools documentation
+ii  qttranslations5-l10n                       5.12.8-0ubuntu1                       all          translations for Qt 5
+ii  qtvirtualkeyboard5-doc                     5.12.8+dfsg-0ubuntu1                  all          Qt 5 Virtual Keyboard documentation
+ii  qtwayland5-doc                             5.12.8-0ubuntu1                       all          Qt 5 Wayland Compositor documentation
+ii  qtwebchannel5-doc                          5.12.8-0ubuntu1                       all          Web communication library for Qt - Documentation
+ii  qtwebengine5-dev:amd64                     5.12.8+dfsg-0ubuntu1.1                amd64        Web content engine library for Qt - development files
+ii  qtwebengine5-dev-tools                     5.12.8+dfsg-0ubuntu1.1                amd64        Qt WebEngine tools
+ii  qtwebengine5-doc                           5.12.8+dfsg-0ubuntu1.1                all          Qt 5 webengine documentation
+ii  qtwebsockets5-doc                          5.12.8-0ubuntu1                       all          Qt 5 Web Sockets documentation
+ii  qtwebview5-doc                             5.12.8-0ubuntu1                       all          display web content in a QML application - Documentation
+ii  qtx11extras5-doc                           5.12.8-0ubuntu1                       all          Qt 5 X11 extras documentation
+ii  qtxmlpatterns5-dev-tools                   5.12.8-0ubuntu1                       amd64        Qt 5 XML patterns development programs
+ii  qtxmlpatterns5-doc                         5.12.8-0ubuntu1                       all          Qt 5 XML patterns documentation
+root@phil-N501VW:/home/phil/uts/uts# dpkg -l | grep -i qt | grep -v doc
+ii  libqt5charts5:amd64                        5.12.8-0ubuntu1                       amd64        Qt charts shared library
+ii  libqt5charts5-dev:amd64                    5.12.8-0ubuntu1                       amd64        Qt charts development files
+ii  libqt5concurrent5:amd64                    5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 concurrent module
+ii  libqt5core5a:amd64                         5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 core module
+ii  libqt5dbus5:amd64                          5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 D-Bus module
+ii  libqt5designer5:amd64                      5.12.8-0ubuntu1                       amd64        Qt 5 designer module
+ii  libqt5designercomponents5:amd64            5.12.8-0ubuntu1                       amd64        Qt 5 Designer components module
+ii  libqt5gui5:amd64                           5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 GUI module
+ii  libqt5help5:amd64                          5.12.8-0ubuntu1                       amd64        Qt 5 help module
+ii  libqt5network5:amd64                       5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 network module
+ii  libqt5opengl5:amd64                        5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 OpenGL module
+ii  libqt5opengl5-dev:amd64                    5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 OpenGL library development files
+ii  libqt5positioning5:amd64                   5.12.8+dfsg-0ubuntu1                  amd64        Qt Positioning module
+ii  libqt5positioning5-plugins:amd64           5.12.8+dfsg-0ubuntu1                  amd64        Qt Positioning module - position plugins
+ii  libqt5positioningquick5:amd64              5.12.8+dfsg-0ubuntu1                  amd64        Qt Positioning module - Qt Quick module
+ii  libqt5printsupport5:amd64                  5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 print support module
+ii  libqt5qml5:amd64                           5.12.8-0ubuntu1                       amd64        Qt 5 QML module
+ii  libqt5quick5:amd64                         5.12.8-0ubuntu1                       amd64        Qt 5 Quick library
+ii  libqt5quickcontrols2-5:amd64               5.12.8+dfsg-0ubuntu1                  amd64        Qt 5 Quick Controls 2 library
+ii  libqt5quickparticles5:amd64                5.12.8-0ubuntu1                       amd64        Qt 5 Quick particles module
+ii  libqt5quickshapes5:amd64                   5.12.8-0ubuntu1                       amd64        Qt 5 Quick Shapes module
+ii  libqt5quicktemplates2-5:amd64              5.12.8+dfsg-0ubuntu1                  amd64        Qt 5 Quick Templates 2 library
+ii  libqt5quicktest5:amd64                     5.12.8-0ubuntu1                       amd64        Qt 5 Quick Test library
+ii  libqt5quickwidgets5:amd64                  5.12.8-0ubuntu1                       amd64        Qt 5 Quick Widgets library
+ii  libqt5script5:amd64                        5.12.8+dfsg-0ubuntu1                  amd64        Qt 5 script module
+ii  libqt5sensors5:amd64                       5.12.8-0ubuntu1                       amd64        Qt Sensors module
+ii  libqt5serialport5:amd64                    5.12.8-0ubuntu1                       amd64        Qt 5 serial port support
+ii  libqt5sql5:amd64                           5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 SQL module
+ii  libqt5sql5-sqlite:amd64                    5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 SQLite 3 database driver
+ii  libqt5svg5:amd64                           5.12.8-0ubuntu1                       amd64        Qt 5 SVG module
+ii  libqt5svg5-dev:amd64                       5.12.8-0ubuntu1                       amd64        Qt 5 SVG module development files
+ii  libqt5test5:amd64                          5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 test module
+ii  libqt5webchannel5:amd64                    5.12.8-0ubuntu1                       amd64        Web communication library for Qt
+ii  libqt5webchannel5-dev:amd64                5.12.8-0ubuntu1                       amd64        Web communication library for Qt - development files
+ii  libqt5webengine-data                       5.12.8+dfsg-0ubuntu1.1                all          Web content engine library for Qt - Data
+ii  libqt5webengine5:amd64                     5.12.8+dfsg-0ubuntu1.1                amd64        Web content engine library for Qt
+ii  libqt5webenginecore5:amd64                 5.12.8+dfsg-0ubuntu1.1                amd64        Web content engine library for Qt - Core
+ii  libqt5webenginewidgets5:amd64              5.12.8+dfsg-0ubuntu1.1                amd64        Web content engine library for Qt - Widget
+ii  libqt5webkit5:amd64                        5.212.0~alpha4-1ubuntu2.1             amd64        Web content engine library for Qt
+ii  libqt5widgets5:amd64                       5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 widgets module
+ii  libqt5xml5:amd64                           5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 XML module
+ii  libqt5xmlpatterns5:amd64                   5.12.8-0ubuntu1                       amd64        Qt 5 XML patterns module
+ii  qhelpgenerator-qt5                         5.12.8-0ubuntu1                       amd64        Qt 5 qhelpgenerator tool
+ii  qml-module-qtgraphicaleffects:amd64        5.12.8-0ubuntu1                       amd64        Qt 5 Graphical Effects module
+ii  qml-module-qtqml-models2:amd64             5.12.8-0ubuntu1                       amd64        Qt 5 Models2 QML module
+ii  qml-module-qtquick-controls:amd64          5.12.8-0ubuntu2                       amd64        Qt 5 Quick Controls QML module
+ii  qml-module-qtquick-controls2:amd64         5.12.8+dfsg-0ubuntu1                  amd64        Qt 5 Qt Quick Controls 2 QML module
+ii  qml-module-qtquick-layouts:amd64           5.12.8-0ubuntu1                       amd64        Qt 5 Quick Layouts QML module
+ii  qml-module-qtquick-templates2:amd64        5.12.8+dfsg-0ubuntu1                  amd64        Qt 5 Qt Quick Templates 2 QML module
+ii  qml-module-qtquick-window2:amd64           5.12.8-0ubuntu1                       amd64        Qt 5 window 2 QML module
+ii  qml-module-qtquick2:amd64                  5.12.8-0ubuntu1                       amd64        Qt 5 Qt Quick 2 QML module
+ii  qml-module-qtwebengine:amd64               5.12.8+dfsg-0ubuntu1.1                amd64        Qt WebEngine QML module
+ii  qml-module-qtwebkit:amd64                  5.212.0~alpha4-1ubuntu2.1             amd64        Qt WebKit QML module
+ii  qmlscene                                   5.12.8-0ubuntu1                       amd64        Qt 5 QML scene viewer
+ii  qt5-assistant                              5.12.8-0ubuntu1                       amd64        Qt 5 Assistant
+ii  qt5-default:amd64                          5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 development defaults package
+ii  qt5-gtk-platformtheme:amd64                5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 GTK+ 3 platform theme
+ii  qt5-qmake:amd64                            5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 qmake Makefile generator tool
+ii  qt5-qmake-bin                              5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 qmake Makefile generator tool — binary file
+ii  qt5-qmltooling-plugins:amd64               5.12.8-0ubuntu1                       amd64        Qt 5 qmltooling plugins
+ii  qtattributionsscanner-qt5                  5.12.8-0ubuntu1                       amd64        Qt 5 qtattributionsscanner tool
+ii  qtbase5-dev:amd64                          5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 base development files
+ii  qtbase5-dev-tools                          5.12.8+dfsg-0ubuntu2.1                amd64        Qt 5 base development programs
+ii  qtchooser                                  66-2build1                            amd64        Wrapper to select between Qt development binary versions
+ii  qtcreator                                  4.11.0-2build2                        amd64        integrated development environment (IDE) for Qt
+ii  qtcreator-data                             4.11.0-2build2                        all          application data for Qt Creator IDE
+ii  qtdeclarative5-dev:amd64                   5.12.8-0ubuntu1                       amd64        Qt 5 declarative development files
+ii  qtdeclarative5-dev-tools                   5.12.8-0ubuntu1                       amd64        Qt 5 declarative development programs
+ii  qtpositioning5-dev:amd64                   5.12.8+dfsg-0ubuntu1                  amd64        Qt 5 Positioning development files
+ii  qtquickcontrols2-5-dev:amd64               5.12.8+dfsg-0ubuntu1                  amd64        Qt 5 Quick Controls 2 development files
+ii  qttools5-dev-tools                         5.12.8-0ubuntu1                       amd64        Qt 5 development tools
+ii  qttranslations5-l10n                       5.12.8-0ubuntu1                       all          translations for Qt 5
+ii  qtwebengine5-dev:amd64                     5.12.8+dfsg-0ubuntu1.1                amd64        Web content engine library for Qt - development files
+ii  qtwebengine5-dev-tools                     5.12.8+dfsg-0ubuntu1.1                amd64        Qt WebEngine tools
+ii  qtxmlpatterns5-dev-tools                   5.12.8-0ubuntu1                       amd64        Qt 5 XML patterns development programs
