@@ -12,7 +12,7 @@ ApplicationWindow {
     property string jsonUrl: "https://s3.amazonaws.com/com.buildbox.dev.interview/UnderTheSea/data.json"
     property variant parentModelquery: []
 
-    JsonDownloader { // C++sterd type (see main.cpp, jsondownloader.[cpp|.h])
+    JsonDownloader { // C++ registerd type (see main.cpp, jsondownloader.[cpp|.h])
         id: jsonDownloader
         // call into C++ to retrieve JSON from Url
         Component.onCompleted: { jsonDownloader.fetchJson(jsonUrl); }
